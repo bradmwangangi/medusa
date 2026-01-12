@@ -1,5 +1,16 @@
 # @medusajs/translation
 
+## 2.12.6
+
+### Patch Changes
+
+- [#14487](https://github.com/medusajs/medusa/pull/14487) [`514cc329f8fccd05a9497bf03fb27ba2de0265f4`](https://github.com/medusajs/medusa/commit/514cc329f8fccd05a9497bf03fb27ba2de0265f4) Thanks [@erbold-bu](https://github.com/erbold-bu)! - feat: added mn-MN to the default list of locales
+
+- [#14518](https://github.com/medusajs/medusa/pull/14518) [`e91ce2ee4b0d15948d4021b2d74c1c9744ef0ae2`](https://github.com/medusajs/medusa/commit/e91ce2ee4b0d15948d4021b2d74c1c9744ef0ae2) Thanks [@LukasKri](https://github.com/LukasKri)! - feat: add lt-LT to the default list of locales
+
+- Updated dependencies [[`1ca3516a5cbb059ad79fe483cd8e1d6a7ebca23b`](https://github.com/medusajs/medusa/commit/1ca3516a5cbb059ad79fe483cd8e1d6a7ebca23b)]:
+  - @medusajs/framework@2.12.6
+
 ## 2.12.5
 
 ### Patch Changes
